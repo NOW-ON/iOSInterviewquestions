@@ -3,9 +3,9 @@
 | 질문 | 답변 | 완료 |
 | --- | --- | --- |
 | **1. 컴퓨터 시스템에서 CPU, RAM, 저장 장치의 역할과 이들이 어떻게 상호 작용하는지 설명해주세요.**<br>- CPU와 메모리 간의 데이터 교환은 어떻게 이루어지나요?<br>- 버스(Bus)란 무엇이며, 어떤 종류가 있나요? | https://github.com/NOW-ON/iOSInterviewquestions/issues/1 | ⭐️ |
-| **2. 캐시 메모리의 개념과 역할에 대해 설명해주세요.**<br>- 캐시의 지역성(Locality) 원리에 대해 설명해주세요. | https://github.com/NOW-ON/iOSInterviewquestions/issues/2 | 🔥 |
-| **3. CPU 아키텍처의 종류(예: ARM, x86)와 각 특징에 대해 설명해주세요.** | | |
-| **4. iOS 기기에서 사용되는 AP(Application Processor)의 특징과 역할에 대해 설명해주세요.**<br>- SoC(System on a Chip)의 개념은 무엇인가요? | https://github.com/NOW-ON/iOSInterviewquestions/issues/3 | 🔥 |
+| **2. 캐시 메모리의 개념과 역할에 대해 설명해주세요.**<br>- 캐시의 지역성(Locality) 원리에 대해 설명해주세요. | https://github.com/NOW-ON/iOSInterviewquestions/issues/2 | ⭐️ |
+| **3. CPU 아키텍처의 종류(예: ARM, x86)와 각 특징에 대해 설명해주세요.** | https://github.com/NOW-ON/iOSInterviewquestions/issues/3 | ⭐️ |
+| **4. iOS 기기에서 사용되는 AP(Application Processor)의 특징과 역할에 대해 설명해주세요.**<br>- SoC(System on a Chip)의 개념은 무엇인가요? | | |
 | **5. 운영체제의 역할과 iOS의 운영체제 구조에 대해 설명해주세요.**<br>- iOS의 샌드박스 구조는 어떻게 동작하나요?<br>- 커널(Kernel)의 역할은 무엇인가요?<br>- 다중 태스킹(Multitasking)은 어떻게 지원되나요? | | |
 | **6. 프로세스와 스레드의 차이점, 그리고 iOS에서의 프로세스와 스레드 관리 방법에 대해 설명해주세요.**<br>- 멀티스레딩이 필요한 이유는 무엇인가요?<br>- iOS에서 GCD(Grand Central Dispatch)는 어떤 역할을 하나요? | | |
 | **7. 메모리 관리 기법 중 iOS에서 사용되는 방식과 그 특징에 대해 설명해주세요.**<br>- 자동 참조 카운팅(ARC)은 어떻게 동작하나요?<br>- Garbage Collection과의 차이는 무엇인가요? | | |
