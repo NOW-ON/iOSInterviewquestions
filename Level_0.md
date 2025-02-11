@@ -9,8 +9,8 @@
 | **5. 운영체제의 역할과 iOS의 운영체제 구조에 대해 설명해주세요.**<br>- iOS의 샌드박스 구조는 어떻게 동작하나요?<br>- 커널(Kernel)의 역할은 무엇인가요?<br>- 다중 태스킹(Multitasking)은 어떻게 지원되나요? | https://github.com/NOW-ON/iOSInterviewquestions/issues/5 | ⭐️ |
 | **6. 프로세스와 스레드의 차이점, 그리고 iOS에서의 프로세스와 스레드 관리 방법에 대해 설명해주세요.**<br>- 멀티스레딩이 필요한 이유는 무엇인가요?<br>- iOS에서 GCD(Grand Central Dispatch)는 어떤 역할을 하나요? | https://github.com/NOW-ON/iOSInterviewquestions/issues/6 | ⭐️ |
 | **7. 메모리 관리 기법 중 iOS에서 사용되는 방식과 그 특징에 대해 설명해주세요.**<br>- 자동 참조 카운팅(ARC)은 어떻게 동작하나요?<br>- Garbage Collection과의 차이는 무엇인가요? | https://github.com/NOW-ON/iOSInterviewquestions/issues/7 | ⭐️ |
-| **8. iOS의 샌드박스(Sandbox) 개념과 역할, 그리고 앱 간 데이터 공유 방법에 대해 설명해주세요.**<br>- URL 스킴(URL Scheme)을 이용한 앱 간 통신은 어떻게 이루어지나요?<br>- 앱 그룹(App Group)을 활용하여 데이터 공유를 하는 방법은 무엇인가요? | https://github.com/NOW-ON/iOSInterviewquestions/issues/8 | 🔥 |
-| **9. iOS에서의 메모리 구조와 관리 방식에 대해 자세히 설명해주세요.**<br>- 힙(Heap)과 스택(Stack)의 차이점은 무엇인가요? | | |
+| **8. iOS의 샌드박스(Sandbox) 개념과 역할, 그리고 앱 간 데이터 공유 방법에 대해 설명해주세요.**<br>- URL 스킴(URL Scheme)을 이용한 앱 간 통신은 어떻게 이루어지나요?<br>- 앱 그룹(App Group)을 활용하여 데이터 공유를 하는 방법은 무엇인가요? | https://github.com/NOW-ON/iOSInterviewquestions/issues/8 | ⭐️ |
+| **9. iOS에서의 메모리 구조와 관리 방식에 대해 자세히 설명해주세요.**<br>- 힙(Heap)과 스택(Stack)의 차이점은 무엇인가요? | https://github.com/NOW-ON/iOSInterviewquestions/issues/9 | 🔥 |
 | **10. 네트워크 프로토콜 스택과 iOS에서의 네트워크 통신 방식에 대해 설명해주세요.** | | |
 | **11. HTTP와 HTTPS의 차이점, 그리고 iOS에서의 보안 통신 방법에 대해 설명해주세요.**<br>- SSL/TLS의 동작 원리는 무엇인가요? | | |
 | **12. 컴퓨터 네트워킹에서 OSI 7계층 모델에 대해 설명해주세요.**<br>- 각 계층의 역할과 프로토콜은 무엇인가요?<br>- TCP/IP 모델과 OSI 모델의 차이점은 무엇인가요? | | |
