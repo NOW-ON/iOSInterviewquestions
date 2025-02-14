@@ -13,7 +13,7 @@
 | **9. iOS에서의 메모리 구조와 관리 방식에 대해 자세히 설명해주세요.**<br>- 힙(Heap)과 스택(Stack)의 차이점은 무엇인가요? | https://github.com/NOW-ON/iOSInterviewquestions/issues/9 | ⭐️ |
 | **10. 네트워크 프로토콜 스택과 iOS에서의 네트워크 통신 방식에 대해 설명해주세요.** | https://github.com/NOW-ON/iOSInterviewquestions/issues/10 | ⭐️ |
 | **11. HTTP와 HTTPS의 차이점, 그리고 iOS에서의 보안 통신 방법에 대해 설명해주세요.**<br>- SSL/TLS의 동작 원리는 무엇인가요? | https://github.com/NOW-ON/iOSInterviewquestions/issues/11 | ⭐️ |
-| **12. 컴퓨터 네트워킹에서 OSI 7계층 모델에 대해 설명해주세요.**<br>- 각 계층의 역할과 프로토콜은 무엇인가요?<br>- TCP/IP 모델과 OSI 모델의 차이점은 무엇인가요? | https://github.com/NOW-ON/iOSInterviewquestions/issues/12 | 🔥 |
+| **12. 컴퓨터 네트워킹에서 OSI 7계층 모델에 대해 설명해주세요.**<br>- 각 계층의 역할과 프로토콜은 무엇인가요?<br>- TCP/IP 모델과 OSI 모델의 차이점은 무엇인가요? | https://github.com/NOW-ON/iOSInterviewquestions/issues/12 | ⭐️ |
 | **13. HTTP 프로토콜의 특징과 HTTP/1.1과 HTTP/2의 차이점을 설명해주세요.**<br>- HTTP의 무상태(Stateless) 성질은 무엇이며, 어떻게 극복하나요?<br>- HTTP/2에서 추가된 주요 기능은 무엇인가요?<br>- HTTP/3에서 추가된 기능은 무엇인가요? | https://github.com/NOW-ON/iOSInterviewquestions/issues/13 | 🔥 |
 | **14. TCP와 UDP의 특징과 차이점에 대해 설명해주세요.**<br>- 연결 지향형 프로토콜과 비연결 지향형 프로토콜은 무엇인가요?<br>- TCP의 3-way handshake 과정은 어떻게 이루어지나요?<br>- 어떤 상황에서 UDP를 사용하는 것이 적합한가요? | https://github.com/NOW-ON/iOSInterviewquestions/issues/14 | 🔥 |
 | **15. 소켓 통신에 대해 설명해주세요.** | | |
