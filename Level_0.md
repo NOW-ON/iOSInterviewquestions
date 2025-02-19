@@ -18,7 +18,7 @@
 | **14. TCP와 UDP의 특징과 차이점에 대해 설명해주세요.**<br>- 연결 지향형 프로토콜과 비연결 지향형 프로토콜은 무엇인가요?<br>- TCP의 3-way handshake 과정은 어떻게 이루어지나요?<br>- 어떤 상황에서 UDP를 사용하는 것이 적합한가요? | https://github.com/NOW-ON/iOSInterviewquestions/issues/14 | ⭐️ |
 | **15. 소켓 통신에 대해 설명해주세요.** | https://github.com/NOW-ON/iOSInterviewquestions/issues/15 | ⭐️ |
 | **16. REST API와 iOS에서의 네트워크 요청 및 응답 처리 방법에 대해 설명해주세요.**<br>- iOS에서 `URLSession`을 사용하여 네트워크 요청을 보내는 방법은 무엇인가요? | https://github.com/NOW-ON/iOSInterviewquestions/issues/16 | ⭐️ |
-| **17. REST API에서 HTTP 메서드들의 차이점을 설명해주세요.**<br>- `GET`과 `POST`의 차이점은 무엇인가요? | https://github.com/NOW-ON/iOSInterviewquestions/issues/17 | 🔥 |
+| **17. REST API에서 HTTP 메서드들의 차이점을 설명해주세요.**<br>- `GET`과 `POST`의 차이점은 무엇인가요? | https://github.com/NOW-ON/iOSInterviewquestions/issues/17 | ⭐️ |
 | **18. HTTP 상태 코드에 대해서 설명해주세요.** | https://github.com/NOW-ON/iOSInterviewquestions/issues/18 | 🔥 |
 | **19. iOS에서 이미지 파일 포맷(PNG, JPEG 등)과 각 포맷의 특징에 대해 설명해주세요.**<br>- PNG와 JPEG의 차이점은 무엇인가요? | | |
 | **20. PNG 파일이 어떻게 저장되고 구성되는지 설명해주세요.** | | |
