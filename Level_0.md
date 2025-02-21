@@ -19,8 +19,8 @@
 | **15. 소켓 통신에 대해 설명해주세요.** | https://github.com/NOW-ON/iOSInterviewquestions/issues/15 | ⭐️ |
 | **16. REST API와 iOS에서의 네트워크 요청 및 응답 처리 방법에 대해 설명해주세요.**<br>- iOS에서 `URLSession`을 사용하여 네트워크 요청을 보내는 방법은 무엇인가요? | https://github.com/NOW-ON/iOSInterviewquestions/issues/16 | ⭐️ |
 | **17. REST API에서 HTTP 메서드들의 차이점을 설명해주세요.**<br>- `GET`과 `POST`의 차이점은 무엇인가요? | https://github.com/NOW-ON/iOSInterviewquestions/issues/17 | ⭐️ |
-| **18. HTTP 상태 코드에 대해서 설명해주세요.** | https://github.com/NOW-ON/iOSInterviewquestions/issues/18 | 🔥 |
-| **19. iOS에서 이미지 파일 포맷(PNG, JPEG 등)과 각 포맷의 특징에 대해 설명해주세요.**<br>- PNG와 JPEG의 차이점은 무엇인가요? | | |
+| **18. HTTP 상태 코드에 대해서 설명해주세요.** | https://github.com/NOW-ON/iOSInterviewquestions/issues/18 | ⭐️ |
+| **19. iOS에서 이미지 파일 포맷(PNG, JPEG 등)과 각 포맷의 특징에 대해 설명해주세요.**<br>- PNG와 JPEG의 차이점은 무엇인가요? | https://github.com/NOW-ON/iOSInterviewquestions/issues/19 | 🔥 |
 | **20. PNG 파일이 어떻게 저장되고 구성되는지 설명해주세요.** | | |
 | **21. iOS에서 메모리 사이즈와 관련된 개념과 고려 사항에 대해 설명해주세요.**<br>- 메모리 정렬(Alignment)이 성능에 미치는 영향은 무엇인가요? | | |
 | **22. iOS 디바이스의 메모리 제약과 앱 메모리 제한에 대해 설명해주세요.**<br>- 메모리 경고(Memory Warning)가 발생하면 어떤 조치를 취해야 하나요? | | |
