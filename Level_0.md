@@ -21,9 +21,9 @@
 | **17. REST API에서 HTTP 메서드들의 차이점을 설명해주세요.**<br>- `GET`과 `POST`의 차이점은 무엇인가요? | https://github.com/NOW-ON/iOSInterviewquestions/issues/17 | ⭐️ |
 | **18. HTTP 상태 코드에 대해서 설명해주세요.** | https://github.com/NOW-ON/iOSInterviewquestions/issues/18 | ⭐️ |
 | **19. iOS에서 이미지 파일 포맷(PNG, JPEG 등)과 각 포맷의 특징에 대해 설명해주세요.**<br>- PNG와 JPEG의 차이점은 무엇인가요? | https://github.com/NOW-ON/iOSInterviewquestions/issues/19 | 🔥 |
-| **20. PNG 파일이 어떻게 저장되고 구성되는지 설명해주세요.** | | |
-| **21. iOS에서 메모리 사이즈와 관련된 개념과 고려 사항에 대해 설명해주세요.**<br>- 메모리 정렬(Alignment)이 성능에 미치는 영향은 무엇인가요? | | |
-| **22. iOS 디바이스의 메모리 제약과 앱 메모리 제한에 대해 설명해주세요.**<br>- 메모리 경고(Memory Warning)가 발생하면 어떤 조치를 취해야 하나요? | | |
+| **20. PNG 파일이 어떻게 저장되고 구성되는지 설명해주세요.** | https://github.com/NOW-ON/iOSInterviewquestions/issues/20 | 🔥 |
+| **21. iOS에서 메모리 사이즈와 관련된 개념과 고려 사항에 대해 설명해주세요.**<br>- 메모리 정렬(Alignment)이 성능에 미치는 영향은 무엇인가요? | https://github.com/NOW-ON/iOSInterviewquestions/issues/21 | 🔥 |
+| **22. iOS 디바이스의 메모리 제약과 앱 메모리 제한에 대해 설명해주세요.**<br>- 메모리 경고(Memory Warning)가 발생하면 어떤 조치를 취해야 하나요? | https://github.com/NOW-ON/iOSInterviewquestions/issues/22 | 🔥 |
 | **23. 알고리즘의 시간 복잡도와 공간 복잡도의 개념, 그리고 빅오 표기법에 대해 설명해주세요.**<br>- O(n)과 O(log n)의 차이는 무엇인가요? | | |
 | **24. 자주 사용되는 정렬 알고리즘(예: 퀵 정렬, 병합 정렬)의 동작 원리와 시간 복잡도를 설명해주세요.** | | |
 | **25. 이진 탐색의 원리와 시간 복잡도에 대해 설명해주세요.** | | |
